@@ -20,7 +20,7 @@ Mute toggle and 1–5 selectable laps / 3 difficulty levels
 
 There is no build step and no dependencies to install.
 
-Download f1_wireframe.html
+Download index.html
 Open it in any modern browser (Chrome, Safari, Edge, Firefox)
 Click START
 Hosting on GitHub Pages
@@ -80,7 +80,7 @@ three.js for the WebGL rendering engine
 
 不需要安裝任何東西，也不需要建置流程。
 
-下載 f1_wireframe.html
+下載 index.html
 用任何現代瀏覽器打開（Chrome、Safari、Edge、Firefox 都可以）
 點擊 START 開始遊玩
 部署到 GitHub Pages
