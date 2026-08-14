@@ -1,5 +1,5 @@
 # f1-racing-game
-🏎️ F1 Racing — Wireframe Edition
+🏎️ F1 Racing Game — Wireframe Edition
 
 A single-file, browser-based wireframe F1 racing game with a built-in track editor, 8-car AI grid, cyberpunk skyline, and zero build steps. Just open the HTML file and race.
 
