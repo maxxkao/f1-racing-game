@@ -24,7 +24,7 @@ Download index.html
 Open it in any modern browser (Chrome, Safari, Edge, Firefox)
 Click START
 Hosting on GitHub Pages
-Push f1_wireframe.html to your repository (rename it to index.html for the cleanest URL, or keep the name and link to it directly)
+Push index.html to your repository
 Go to Settings → Pages, set the source branch, and save
 Your game will be live at https://<username>.github.io/<repo>/
 
@@ -84,7 +84,7 @@ three.js for the WebGL rendering engine
 用任何現代瀏覽器打開（Chrome、Safari、Edge、Firefox 都可以）
 點擊 START 開始遊玩
 部署到 GitHub Pages
-把 f1_wireframe.html 上傳到你的 repository（可以改名成 index.html 讓網址更簡潔，或保留原檔名直接連結過去）
+把 index.html 上傳到你的 repository
 到 Settings → Pages，選好來源分支後儲存
 之後就可以透過 https://<你的帳號>.github.io/<repo名稱>/ 連到遊戲
 
