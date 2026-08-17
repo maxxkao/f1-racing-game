@@ -1,8 +1,6 @@
 # f1-racing-game
 🏎️ F1 Racing Game — Wireframe Edition
 
-maxxkao.github.io/f1-racing-game/
-
 A single-file, browser-based wireframe F1 racing game with a built-in track editor, 8-car AI grid, cyberpunk skyline, and zero build steps. Just open the HTML file and race.
 
 繁體中文說明請見下方 ↓ / Traditional Chinese version below ↓
